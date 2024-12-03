@@ -1,0 +1,6 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+@BaseUrl =https://localhost:6064
+
+### Login
+GET {{BaseUrl}}/login
+
